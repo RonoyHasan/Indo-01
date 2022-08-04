@@ -1,13 +1,13 @@
 # coding: utf-8
-# Decompiled By Ronoy Hasan
-# Github : https://github.com/RonoyHasan
+# Decompiled By Mamun Ahmed Fahim
+# Github : https://github.com/noobboss1
 # uncompyle6 version 
-# Original written By Ronoy Hasan
+# Original written By Mamun Ahmed Fahim
  
  
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
-__author__ = 'RonoyHasan'
-__copyright = 'All rights reserved . Copyright  RonoyHasan'
+__author__ = 'SOMAIL-BRAND'
+__copyright = 'All rights reserved . Copyright  SOMAIL-BRAND'
 CorrectUsername = '1'
 os.system('clear')
 loop = 'true'
@@ -96,14 +96,14 @@ def tik():
  ##### LOGO ##### 
 logo = """
       ___  ___     _____  ____  ____  ______  
-     /  \/ _ KING __/  
-    / ,_/ _FORCE TEAM \\\\\\\
-   /_/_/ RONOYHASAN//////////                                                                                          ​                                                                                     
+     /  \/ _ Please __/  
+    / ,_/ _Pray for \\\\\\\
+   /_/_/ SOMAIL-BRAND//////////                                                                                          ​                                                                                     
  ​______________________________________________
- ​Author   :            RONOY HASAN
- Facebook :          RONOY HASAN
- ​GitHub   :        github.com/RonoyHasan
- ​Version  :              0.1
+ ​Author   :            MUHAMMAD SOMAIL
+ Facebook :          MUHAMMAD SOMAIL
+ ​GitHub   :        github.com/SOMAIL-BRAND
+ ​Version  :              2.0
  ​______________________________________________
  ​                                                 """ 
 logo1 = '   \n\n\x1b[4;96mSELECT PAK  SIM CODE \x1b[1;0m\n\x1b[1;96m[1] Jazz    \x1b[1;97m 00,01,02,03,04,05,06,07,08\n\x1b[1;96m[2] Zong    \x1b[1;97m 11,12,13,14,15,16,17\n\x1b[1;96m[3] Warid   \x1b[1;97m 21,22,23,24,25\n\x1b[1;96m[4] Ufone   \x1b[1;97m 30,31,32,33,34,35\n\x1b[1;96m[5] Telenor \x1b[1;97m 40,41,42,43,44,45,46,47\n\n\n\n\x1bx \x1b[1;97m\x1b[1;0m\n'
